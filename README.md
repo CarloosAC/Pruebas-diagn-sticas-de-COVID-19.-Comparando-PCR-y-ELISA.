@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Saludos
 
 You can use the [editor on GitHub](https://github.com/CarloosAC/Pruebas-diagn-sticas-de-COVID-19.-Comparando-PCR-y-ELISA./edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
