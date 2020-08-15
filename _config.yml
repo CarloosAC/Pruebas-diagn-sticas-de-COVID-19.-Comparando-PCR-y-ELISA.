@@ -82,7 +82,12 @@
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">¿Que es y como funcionan las PCR?</h3> <!-- NOMBRE DEL PRIMER SUBTITULO-->
-                            <div>La reacción en cadena de la polimerasa (conocida como PCR por sus siglas en inglés, Polymerase Chain Reaction) es un método de análisis de ácidos nucleicos para producir grandes cantidades de un fragmento específico de DNA de secuencia y longitud definida a partir de una pequeña cantidad de material inicial a la que llamamos “muestra” (Sánchez, 2016). Esta, se calienta y se enfría repetidamente para que enzimas sintetizadoras de DNA hagan millones de copias de la secuencia del virus y a cada una de ellas se le adhieren moléculas fluorescentes que nos confirman o niegan la existencia del virus en la muestra a partir de la luz emitida (Cárdenas et al., 2020)..</div> <!-- INSERTAR TEXTO-->
+                            <div>La reacción en cadena de la polimerasa (conocida como PCR por sus siglas en inglés, Polymerase Chain Reaction) 
+                            es un método de análisis de ácidos nucleicos para producir grandes cantidades de un fragmento específico de DNA de 
+                            secuencia y longitud definida a partir de una pequeña cantidad de material inicial a la que llamamos “muestra” (Sánchez, 2016).
+                            Esta, se calienta y se enfría repetidamente para que enzimas sintetizadoras de DNA hagan millones de copias de la secuencia del 
+                            virus y a cada una de ellas se le adhieren moléculas fluorescentes que nos confirman o niegan la existencia del virus en la 
+                            muestra a partir de la luz emitida (Cárdenas et al., 2020).</div> <!-- INSERTAR TEXTO-->
                             
                         </div>
     
